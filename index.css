@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #06061f;
+  background-image: url("/src/assets/aksesore.jpg");
+}
